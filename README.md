@@ -6,7 +6,9 @@ There are many protocols but I have taken 3 that is tcp,icmp and udp. In the fut
 LookUp table is usually in CSV format but due to the requirement stating that the input and the tag mapping both are plain ascii text file so here I have used .txt files only.
 
 there are 2 files:
+
 lookup_table.txt : Tag mapping
+
 input.txt : Flow Logs
 
 And the output of the program is stored in the output.txt
