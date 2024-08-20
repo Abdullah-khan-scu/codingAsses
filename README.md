@@ -11,6 +11,11 @@ input.txt : Flow Logs
 
 And the output of the program is stored in the output.txt
 
-To Run this file run this command:
+To Run this file run this command using the following format:
 
 python script.py <lookup_table.txt> <input.txt> <output.txt>
+
+Example:
+```
+python script.py lookup_table.txt input.txt output.txt
+```
